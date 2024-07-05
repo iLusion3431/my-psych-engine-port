@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Hot Head",
+			"numpty",
+			[
+				255,
+				153,
+				15
+			]
+		],
+		[
+			"Knock Knock",
+			"clod",
+			[
+				126,
+				255,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "dwtgd",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

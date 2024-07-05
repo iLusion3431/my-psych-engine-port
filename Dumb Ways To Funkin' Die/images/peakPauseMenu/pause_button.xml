@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pause_button.png">
+<SubTexture name="idle0000" x="0" y="0" width="210" height="230" frameX="-20" frameY="-15" frameWidth="250" frameHeight="250" />
+<SubTexture name="idle0001" x="0" y="0" width="210" height="230" frameX="-20" frameY="-15" frameWidth="250" frameHeight="250" />
+<SubTexture name="idle0002" x="0" y="0" width="210" height="230" frameX="-20" frameY="-15" frameWidth="250" frameHeight="250" />
+<SubTexture name="press0000" x="0" y="230" width="210" height="210" frameX="-20" frameY="-15" frameWidth="250" frameHeight="250" />
+<SubTexture name="press0001" x="420" y="0" width="210" height="215" frameX="-20" frameY="-15" frameWidth="250" frameHeight="250" />
+<SubTexture name="press0002" x="210" y="0" width="210" height="216" frameX="-20" frameY="-15" frameWidth="250" frameHeight="250" />
+<SubTexture name="press0003" x="210" y="0" width="210" height="216" frameX="-20" frameY="-15" frameWidth="250" frameHeight="250" />
+</TextureAtlas>

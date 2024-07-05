@@ -1,0 +1,9 @@
+idle 150 757
+singUP 150 757
+singRIGHT 150 757
+singLEFT 150 757
+singDOWN 150 757
+singDOWNmiss 150 757
+singUPmiss 150 757
+singRIGHTmiss 150 757
+singLEFTmiss 150 757
