@@ -1,0 +1,40 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"experimental phase",
+			"daidem",
+			[
+				0,
+				213,
+				140
+			]
+		],
+		[
+			"perfection",
+			"daidem",
+			[
+				0,
+				213,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Entity Origins - Breakout",
+	"description": "The begin of the entity",
+	"restart":false,
+	"color": [170, 0, 255]
+}
