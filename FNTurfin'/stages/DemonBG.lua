@@ -1,0 +1,16 @@
+function onCreatePost()
+	makeLuaSprite('bg', 'DemonBG0', -500, -300)
+    scaleObject('bg', 1.8, 1.8)
+        setScrollFactor('bg', 0.7, 0.7)
+	addLuaSprite('bg', false)
+
+	makeLuaSprite('bg1', 'DemonBG1', -600, -350)
+    scaleObject('bg1', 2.1, 2.1)
+        setScrollFactor('bg1', 1, 1)
+	addLuaSprite('bg1', false)
+    --setProperty('healthBar.alpha', 0)
+    --setProperty('iconP1.alpha', 0)
+    --setProperty('iconP2.alpha', 0)
+    --setProperty('scoreTxt.alignment', LEFT)
+    --setProperty('scoreTxt.x',40)
+end

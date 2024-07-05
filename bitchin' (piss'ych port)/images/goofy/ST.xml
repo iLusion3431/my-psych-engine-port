@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ha.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ST0000" x="10" y="10" width="372" height="341" pivotX="276.05" pivotY="-107.75"/>
+	<SubTexture name="ST0001" x="10" y="10" width="372" height="341"/>
+	<SubTexture name="ST0002" x="392" y="10" width="372" height="341"/>
+	<SubTexture name="ST0003" x="392" y="10" width="372" height="341"/>
+	<SubTexture name="ST0004" x="774" y="10" width="372" height="341"/>
+	<SubTexture name="ST0005" x="774" y="10" width="372" height="341"/>
+	<SubTexture name="ST0006" x="1156" y="10" width="372" height="341"/>
+	<SubTexture name="ST0007" x="1156" y="10" width="372" height="341"/>
+	<SubTexture name="ST0008" x="1538" y="10" width="372" height="341"/>
+	<SubTexture name="ST0009" x="1538" y="10" width="372" height="341"/>
+	<SubTexture name="ST0010" x="1538" y="10" width="372" height="341"/>
+	<SubTexture name="ST0011" x="1538" y="10" width="372" height="341"/>
+	<SubTexture name="ST0012" x="1538" y="10" width="372" height="341"/>
+	<SubTexture name="ST0013" x="1538" y="10" width="372" height="341"/>
+</TextureAtlas>

@@ -1,0 +1,44 @@
+{
+	"storyName": "Friday Night Turfin'",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Scorpion Sting",
+			"beebz",
+			[
+				191,
+				48,
+				48
+			]
+		],
+		[
+			"The Lowdown",
+			"beebz",
+			[
+				191,
+				48,
+				48
+			]
+		],
+		[
+			"Magnum Doofus",
+			"beebz",
+			[
+				191,
+				48,
+				48
+			]
+		]
+	],
+	"weekName": "Week 1"
+}
