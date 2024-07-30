@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				251,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				66,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-27,
+				458
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-13,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bambi_evil",
+	"position": [
+		260,
+		270
+	],
+	"healthicon": "bambi-evil-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		25,
+		0
+	],
+	"camera_position": [
+		-280,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 3.3
+}
