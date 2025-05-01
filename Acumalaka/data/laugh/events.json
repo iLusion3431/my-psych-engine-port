@@ -1,0 +1,276 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					],
+					[
+						"Add Cinematic",
+						"110, 1",
+						"5"
+					]
+				]
+			],
+			[
+				13913.0434782609,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				19130.4347826087,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				26086.9565217391,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					]
+				]
+			],
+			[
+				26956.5217391304,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				27391.3043478261,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				27826.0869565217,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					],
+					[
+						"Add Cinematic",
+						"0, 1",
+						"5"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						"0.6"
+					]
+				]
+			],
+			[
+				55652.1739130435,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						"0.6"
+					]
+				]
+			],
+			[
+				62608.6956521739,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.95"
+					]
+				]
+			],
+			[
+				68695.652173913,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.1"
+					]
+				]
+			],
+			[
+				69565.2173913043,
+				[
+					[
+						"Flash Camera",
+						"camGame",
+						"0.6"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					]
+				]
+			],
+			[
+				76521.7391304348,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.95"
+					]
+				]
+			],
+			[
+				81739.1304347826,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				82608.6956521739,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				83043.4782608696,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.1"
+					]
+				]
+			],
+			[
+				83478.2608695652,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						"0.6"
+					]
+				]
+			],
+			[
+				110434.782608696,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.1"
+					]
+				]
+			],
+			[
+				111304.347826087,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						"0.6"
+					]
+				]
+			],
+			[
+				139130.434782609,
+				[
+					[
+						"Flash Camera",
+						"camGame",
+						"0.6"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				166086.956521739,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.1"
+					]
+				]
+			],
+			[
+				166521.739130435,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				166956.521739131,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

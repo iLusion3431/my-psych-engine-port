@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				161
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf dow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				159
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf dmisssss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				161
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf umissss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				160
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "bf hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				297,
+				161
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf lef",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				299,
+				160
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf lmisss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				292,
+				161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf rig",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				292,
+				160
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf rmiss",
+			"indices": []
+		}
+	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfacu",
+	"position": [
+		-450,
+		130
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-30,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

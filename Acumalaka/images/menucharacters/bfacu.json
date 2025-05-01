@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "bf hey",
+	"idle_anim": "bf idl",
+	"position": [
+		617,
+		360
+	],
+	"scale": 0.45,
+	"image": "Menu_BFacu",
+	"flipX": false
+}

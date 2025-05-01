@@ -1,0 +1,11 @@
+{
+	"idle_anim": "catIdle",
+	"image": "Menu_Cat",
+	"position": [
+		-80,
+		-50
+	],
+	"flipX": true,
+	"scale": 0.55,
+	"confirm_anim": "catIdle"
+}

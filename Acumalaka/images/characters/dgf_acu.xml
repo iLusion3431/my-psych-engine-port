@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dgf_acu.png">
+	<SubTexture name="gf danceLeft0000" x="1560" y="0" width="485" height="635" frameX="-650" frameY="-307" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0001" x="1560" y="0" width="485" height="635" frameX="-650" frameY="-307" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0002" x="489" y="667" width="484" height="637" frameX="-668" frameY="-303" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0003" x="489" y="667" width="484" height="637" frameX="-668" frameY="-303" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0004" x="491" y="1310" width="488" height="613" frameX="-708" frameY="-327" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0005" x="491" y="1310" width="488" height="613" frameX="-708" frameY="-327" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0006" x="0" y="1310" width="491" height="635" frameX="-727" frameY="-305" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0007" x="0" y="1310" width="491" height="635" frameX="-727" frameY="-305" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0008" x="973" y="667" width="495" height="637" frameX="-727" frameY="-303" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceLeft0009" x="973" y="667" width="495" height="637" frameX="-727" frameY="-303" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0000" x="523" y="0" width="532" height="661" frameX="-732" frameY="-279" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0001" x="523" y="0" width="532" height="661" frameX="-732" frameY="-279" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0002" x="0" y="0" width="523" height="667" frameX="-732" frameY="-273" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0003" x="0" y="0" width="523" height="667" frameX="-732" frameY="-273" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0004" x="1055" y="0" width="505" height="653" frameX="-730" frameY="-287" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0005" x="1055" y="0" width="505" height="653" frameX="-730" frameY="-287" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0006" x="0" y="667" width="489" height="643" frameX="-725" frameY="-297" frameWidth="1920" frameHeight="1080" />
+	<SubTexture name="gf danceRight0007" x="0" y="667" width="489" height="643" frameX="-725" frameY="-297" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

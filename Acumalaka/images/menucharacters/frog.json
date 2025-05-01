@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "laugh",
+	"idle_anim": "idle",
+	"position": [
+		247,
+		20
+	],
+	"scale": 0.45,
+	"image": "Menu_Frog",
+	"flipX": true
+}

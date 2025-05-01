@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				294,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "DBF idl"
+		},
+		{
+			"offsets": [
+				297,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "DBF up"
+		},
+		{
+			"offsets": [
+				295,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DBF down"
+		},
+		{
+			"offsets": [
+				295,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "DBF dmiss"
+		},
+		{
+			"offsets": [
+				298,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "DBF umiss"
+		},
+		{
+			"offsets": [
+				295,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "DBF Yeah"
+		},
+		{
+			"offsets": [
+				299,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "DBF left"
+		},
+		{
+			"offsets": [
+				299,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "DBF lmiss"
+		},
+		{
+			"offsets": [
+				293,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "DBF right"
+		},
+		{
+			"offsets": [
+				293,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "DBF rmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dbf_acu",
+	"position": [
+		-440,
+		165
+	],
+	"healthicon": "dbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		228,
+		85,
+		216
+	],
+	"camera_position": [
+		100,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

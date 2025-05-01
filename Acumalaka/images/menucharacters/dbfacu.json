@@ -1,0 +1,11 @@
+{
+	"idle_anim": "DBF idle",
+	"image": "Menu_DBFacu",
+	"position": [
+		590,
+		330
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "DBF Yeah"
+}

@@ -1,0 +1,51 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gf danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gf danceRight",
+			"indices": []
+		}
+	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/dgf_acu",
+	"position": [
+		-900,
+		-60
+	],
+	"healthicon": "dgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		120,
+		95
+	],
+	"camera_position": [
+		170,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
