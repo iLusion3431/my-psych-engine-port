@@ -1,0 +1,7 @@
+{
+	"name": "Vs. Acumalaka",
+	"description": "the semi-official folder port of vs acumalaka",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [149, 133, 107]
+}

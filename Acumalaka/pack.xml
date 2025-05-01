@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pack.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="laugh00000000" x="300" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00010000" x="750" y="300" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00020000" x="600" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00030000" x="600" y="600" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00040000" x="150" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00050000" x="0" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00060000" x="150" y="300" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00070000" x="0" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00080000" x="300" y="600" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00090000" x="750" y="450" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00100000" x="600" y="300" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00110000" x="150" y="450" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00120000" x="0" y="300" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00130000" x="0" y="600" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00140000" x="0" y="450" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00150000" x="0" y="450" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00160000" x="300" y="450" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00170000" x="150" y="600" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00180000" x="600" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00190000" x="150" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00200000" x="450" y="600" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00210000" x="750" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00220000" x="450" y="450" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00230000" x="300" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00240000" x="300" y="300" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00250000" x="450" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00260000" x="900" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00270000" x="900" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00280000" x="600" y="450" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00290000" x="450" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00300000" x="750" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00310000" x="750" y="600" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="laugh00320000" x="450" y="300" width="150" height="150" frameX="0" frameY="0" frameWidth="150" frameHeight="150"/>
+</TextureAtlas>
