@@ -1,0 +1,50 @@
+{
+	"storyName": "Kitten'",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "discord",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		149,
+		133,
+		107
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Meow",
+			"cat",
+			[
+				209,
+				193,
+				147
+			]
+		],
+		[
+			"Kitten",
+			"cat",
+			[
+				209,
+				193,
+				147
+			]
+		],
+		[
+			"Angrycat",
+			"cat",
+			[
+				209,
+				193,
+				147
+			]
+		]
+	],
+	"weekCharacters": [
+		"cat",
+		"dbfacu",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Acumalaka Cat"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Frogin'",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "backmalaka",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		149,
+		133,
+		107
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Laugh",
+			"frog",
+			[
+				209,
+				193,
+				147
+			]
+		],
+		[
+			"Frogin",
+			"frog",
+			[
+				209,
+				193,
+				147
+			]
+		],
+		[
+			"Acumalaka",
+			"frog",
+			[
+				209,
+				193,
+				147
+			]
+		]
+	],
+	"weekCharacters": [
+		"frog",
+		"bfacu",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Acumalaka Frog"
+}
