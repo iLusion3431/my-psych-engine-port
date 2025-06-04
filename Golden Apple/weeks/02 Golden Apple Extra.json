@@ -1,0 +1,130 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+                [
+			"Sugar Rush",
+			"bandu-pixel",
+			[
+				0,
+				255,
+				0
+			]
+		],
+                [
+			"The Big Dingle",
+			"dingle-pixel",
+			[
+				68,
+				68,
+				108
+			]
+		],
+                [
+			"Epilepsy",
+			"dingle-pixel",
+			[
+				68,
+				68,
+				108
+			]
+		],
+		[
+			"Keyboard",
+			"bendu-pixel",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Strawberry",
+			"bambom-pixel",
+			[
+				255,
+				40,
+				40
+			]
+		],
+                [
+			"Resumed",
+			"dambu-pixel",
+			[
+				195,
+				195,
+				0
+			]
+		],
+                [
+			"Dale",
+			"dale-pixel",
+			[
+				135,
+				60,
+				60
+			]
+		],
+                [
+			"Alternate",
+			"david-pixel",
+			[
+				255,
+				255,
+				0
+			]
+		],
+                [
+			"Cuberoot",
+			"bambroot-pixel",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"RECOVERED PROJECT",
+			"recovered-project-pixel",
+			[
+				146,
+				144,
+				143
+			]
+		],
+                [
+			"Wheels",
+			"dave-wheels-pixel",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Dave x Bambi Shipping Cute",
+			"dave-and-bambi",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Dave and Bambi Golden Apple"
+}

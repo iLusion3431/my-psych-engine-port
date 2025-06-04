@@ -1,0 +1,67 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Disruption",
+			"disrupt-pixel",
+			[
+				12,
+				181,
+				0
+			]
+		],
+                                    [
+			"Applecore",
+			"bandu-pixel",
+			[
+				0,
+				235,
+				0
+			]
+		],
+                                    [
+			"Disability",
+			"dave-disabled-pixel",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Wireframe",
+			"dave-wireframe-pixel",
+			[
+				255,
+				0,
+				33
+			]
+		],
+		[
+			"Algebra",
+			"og-dave-pixel",
+			[
+				180,
+				200,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Dave and Bambi Golden Apple"
+}
