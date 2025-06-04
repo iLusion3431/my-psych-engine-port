@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				30
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-61,
+				30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-61,
+				30
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-61,
+				30
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-61,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				-61,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"indices": [],
+			"name": "TURN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tunnel_bf",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "bf-flip",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-150,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

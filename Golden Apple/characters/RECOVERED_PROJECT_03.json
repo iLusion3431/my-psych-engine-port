@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				152
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				290
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				166,
+				136
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				174,
+				162
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/RECOVERED_PROJECT_03",
+	"position": [
+		-370,
+		-160
+	],
+	"healthicon": "recovered-project-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		144,
+		123
+	],
+	"camera_position": [
+		70,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				1
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				38,
+				70
+			],
+			"anim": "stand",
+			"fps": 15,
+			"name": "STAND",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/og_dave",
+	"position": [
+		-50,
+		-50
+	],
+	"healthicon": "og-dave-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		223,
+		245
+	],
+	"camera_position": [
+		-80,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				40
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				50
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				30
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				30
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				30
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				30
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				7
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/david",
+	"position": [
+		-130,
+		70
+	],
+	"healthicon": "david-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		235,
+		40
+	],
+	"camera_position": [
+		10,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

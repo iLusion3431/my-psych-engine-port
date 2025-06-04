@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-5
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-97,
+				30
+			],
+			"anim": "stand",
+			"fps": 15,
+			"name": "STAND",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/og_dave_angey",
+	"position": [
+		-80,
+		-60
+	],
+	"healthicon": "og-dave-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		223,
+		245
+	],
+	"camera_position": [
+		-100,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

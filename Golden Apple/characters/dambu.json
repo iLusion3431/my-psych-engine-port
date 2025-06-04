@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				225
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				265
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				220
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				227
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				220
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				220
+			],
+			"anim": "look",
+			"fps": 24,
+			"name": "look",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dambu",
+	"position": [
+		-100,
+		200
+	],
+	"healthicon": "dambu-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		195,
+		0
+	],
+	"camera_position": [
+		-250,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
