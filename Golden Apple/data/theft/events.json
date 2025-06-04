@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "algebra",
+		"player1": "3d-bf",
+		"player2": "garrett",
+		"player3": null,
+		"events": [
+			[
+				80142.8571428571,
+				[
+					[
+						"Flash Camera",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1.2"
+					],
+					[
+						"Cam Boom Speed",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				160285.714285714,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "3D_Note_Assets",
+		"needsVoices": true,
+		"song": "Theft"
+	}
+}

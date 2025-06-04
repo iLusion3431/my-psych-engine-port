@@ -1,0 +1,154 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "algebra",
+		"player1": "3d-bf",
+		"player2": "og-dave",
+		"player3": null,
+		"events": [
+			[
+				72727.2727272727,
+				[
+					[
+						"Change Character",
+						"1",
+						"garrett"
+					],
+					[
+						"Change Character",
+						"2",
+						"og-dave"
+					]
+				]
+			],
+			[
+				72840.9090909091,
+				[
+					[
+						"Play Animation",
+						"stand",
+						"gf"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Change Character",
+						"1",
+						"og-dave"
+					],
+					[
+						"Change Character",
+						"2",
+						"garrett"
+					]
+				]
+			],
+			[
+				160113.636363637,
+				[
+					[
+						"Play Animation",
+						"stand",
+						"gf"
+					]
+				]
+			],
+			[
+				196363.636363637,
+				[
+					[
+						"Change Character",
+						"1",
+						"garrett"
+					],
+					[
+						"Change Character",
+						"2",
+						"og-dave-angey"
+					]
+				]
+			],
+			[
+				196420.454545455,
+				[
+					[
+						"Play Animation",
+						"stand",
+						"gf"
+					]
+				]
+			],
+			[
+				200000,
+				[
+					[
+						"Change Character",
+						"1",
+						"og-dave-angey"
+					],
+					[
+						"Change Character",
+						"2",
+						"garrett"
+					]
+				]
+			],
+			[
+				200056.818181819,
+				[
+					[
+						"Play Animation",
+						"stand",
+						"gf"
+					]
+				]
+			],
+			[
+				232727.272727273,
+				[
+					[
+						"Change Character",
+						"1",
+						"hall-monitor"
+					],
+					[
+						"Change Character",
+						"2",
+						"og-dave-angey"
+					]
+				]
+			],
+			[
+				232784.090909091,
+				[
+					[
+						"Play Animation",
+						"stand",
+						"gf"
+					]
+				]
+			],
+			[
+				382666.666666664,
+				[
+					[
+						"Change Character",
+						"1",
+						"diamond-man"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 132,
+		"arrowSkin": "note_3d",
+		"needsVoices": true,
+		"song": "Algebra"
+	}
+}

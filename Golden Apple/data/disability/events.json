@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "DaveDisability3DWorld",
+		"player1": "bf",
+		"player2": "split-dave-3d",
+		"player3": null,
+		"events": [
+			[
+				137142.857142857,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				189890.10989011,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 182,
+		"arrowSkin": "note_3d",
+		"needsVoices": true,
+		"song": "Disability"
+	}
+}

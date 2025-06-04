@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": null,
+		"player1": "dave-good",
+		"player2": "bambi-good",
+		"player3": null,
+		"events": [
+			[
+				38006.1349693252,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"talk",
+						"bf"
+					]
+				]
+			],
+			[
+				83926.3803680981,
+				[
+					[
+						"Play Animation",
+						"shit",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 163,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dave x Bambi Shipping Cute"
+	}
+}

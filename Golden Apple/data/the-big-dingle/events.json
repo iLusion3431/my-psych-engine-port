@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Dingle",
+		"player1": "froing",
+		"player2": "dingle",
+		"player3": null,
+		"events": [
+			[
+				140000,
+				[
+					[
+						"",
+						"",
+						""
+					],
+					[
+						"",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"donk"
+					],
+					[
+						"Change Character",
+						"1",
+						"dingle-donk-icon"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "blank",
+		"bpm": 120,
+		"arrowSkin": "3D_NOTE_Assets",
+		"needsVoices": true,
+		"song": "The Big Dingle"
+	}
+}
