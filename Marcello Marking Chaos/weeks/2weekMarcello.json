@@ -1,0 +1,44 @@
+{
+	"storyName": "Marcello's Fun House!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "marcellofunhouse",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Fun House",
+			"bambi-pixel",
+			[
+				0,
+				168,
+				0
+			]
+		],
+		[
+			"Something Important",
+			"bambi-pixel",
+			[
+				0,
+				168,
+				0
+			]
+		],
+		[
+			"Two Notebooks",
+			"bambi-evil-pixel",
+			[
+				195,
+				20,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

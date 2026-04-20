@@ -1,0 +1,44 @@
+{
+	"storyName": "The Break-in Troll",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "marcello",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Comecful",
+			"marcello",
+			[
+				191,
+				48,
+				48
+			]
+		],
+		[
+			"Trollhazard",
+			"marcello",
+			[
+				191,
+				48,
+				48
+			]
+		],
+		[
+			"Blocking",
+			"marcello-angry",
+			[
+				191,
+				48,
+				48
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 1"
+}
